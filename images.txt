@@ -1,1 +1,7 @@
-kubesphere/kubectl:v1.22.0
+kubesphere/ks-console:v3.4.1
+kubesphere/ks-apiserver:v3.4.1
+kubesphere/ks-controller-manager:v3.4.1
+prom/alertmanager:v0.23.0
+kubesphere/prometheus-config-reloader:v0.55.1
+kubesphere/notification-manager:v2.3.0
+kubesphere/notification-tenant-sidecar:v3.2.0
