@@ -1,1 +1,1 @@
-bitnami/metrics-server:latest
+kubectl:v1.22.0
