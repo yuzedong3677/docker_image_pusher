@@ -1,1 +1,1 @@
-kubectl:v1.22.0
+kubesphere/kubectl:v1.22.0
