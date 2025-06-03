@@ -1,2 +1,1 @@
-library/mariadb:latest
-mayanghua/instock:latest
+pyqlib/qlib_image_stable:stable
