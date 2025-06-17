@@ -1,1 +1,1 @@
-pyqlib/qlib_image_stable:stable
+quay.io/external_storage/nfs-client-provisioner:latest
