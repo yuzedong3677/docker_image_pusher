@@ -1,2 +1,1 @@
-alpine:3.6
-busybox:latset
+kubeimages/kibana:7.9.3
