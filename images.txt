@@ -1,1 +1,1 @@
-kubeimages/kibana:7.9.3
+docker.io/kubeimages/filebeat:7.9.3
