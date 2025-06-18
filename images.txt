@@ -1,2 +1,2 @@
 alpine:3.6
-busybox
+busybox:latset
