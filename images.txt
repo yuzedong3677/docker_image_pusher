@@ -1,1 +1,1 @@
-confluentinc/cp-kafka:7.6.6
+confluentinc/cp-kafka:7.9.2
