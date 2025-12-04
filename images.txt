@@ -1,1 +1,2 @@
 rancher/rancher:v2.6.14
+rancher/rancher-agent:v2.6.14
