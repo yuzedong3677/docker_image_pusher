@@ -1,1 +1,1 @@
-hub-mirror.c.163.com/ctrox/csi-s3:0.40.8
+docker.io/ctrox/csi-s3:0.40.8
