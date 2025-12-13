@@ -1,1 +1,1 @@
-docker.io/ctrox/csi-s3:0.40.8
+ctrox/csi-s3:v1.2.0-rc.2
