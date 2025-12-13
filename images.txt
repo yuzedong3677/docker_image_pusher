@@ -1,1 +1,1 @@
-ctrox/csi-s3:0.40.8
+registry.cn-hangzhou.aliyuncs.com/ctrox/csi-s3:0.40.8
