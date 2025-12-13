@@ -1,2 +1,2 @@
-rancher/rancher:v2.6.14
-rancher/rancher-agent:v2.6.14
+ctrox/csi-s3:0.40.8
+registry.cn-hangzhou.aliyuncs.com/google_containers/csi-node-driver-registrar:v1.2.0
