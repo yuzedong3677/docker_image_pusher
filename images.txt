@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/ctrox/csi-s3:0.40.8
+hub-mirror.c.163.com/ctrox/csi-s3:0.40.8
