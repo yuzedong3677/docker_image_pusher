@@ -1,1 +1,2 @@
-rancher/rancher-webhook:v0.2.10
+kube-state-metrics/kube-state-metrics:v2.7.0
+
