@@ -1,3 +1,5 @@
 quay.io/jetstack/cert-manager-cainjector:v1.11.0
 quay.io/jetstack/cert-manager-controller:v1.11.0
 quay.io/jetstack/cert-manager-webhook:v1.11.0
+apache/skywalking-swck:v0.7.0
+gcr.io/kubebuilder/kube-rbac-proxy:v0.8.0
